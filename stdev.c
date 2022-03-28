@@ -11,7 +11,7 @@ int main()
   printf("Please enter the amount of numbers\n");
   scanf("%d", &n);
 
-  printf("Please enter %d numbers\n", n);
+  printf("Please enter your numbers");
   for(i = 0; i < n; i++)
   {
     scanf("%f", &nArray[i]);
